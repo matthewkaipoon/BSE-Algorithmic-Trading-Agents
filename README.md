@@ -1,4 +1,4 @@
-# COMP3004 Designing Intelligent Agents Coursework Code README File
+# BSE Algorithmic Trading Agents README File (UoN Coursework)
 
 ## Title
 The Impact of Market Composition and Compounding Stressors on Algorithmic Trading Agents
