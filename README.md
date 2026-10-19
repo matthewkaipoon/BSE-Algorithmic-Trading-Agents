@@ -5,7 +5,6 @@ The Impact of Market Composition and Compounding Stressors on Algorithmic Tradin
 
 ## Author
 Matthew Poon
-psymp18
 
 ## Main Files
 
